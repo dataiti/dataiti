@@ -1,5 +1,5 @@
 # Infomation
-Hello! My name is Nguyễn Thành Đạt, I come from Tam Ky, Quang Nam. Currently, I am a three year student at Duy Tan University and majoring in Software Engineering. My goal is to become a professional fullstack Web developer. Further more, I hope i will work for a foreign technology company.  
+Hello! My name is Nguyễn Thành Đạt, I come from Tam Ky, Quang Nam. Currently, I am a 4 year student at Duy Tan University and majoring in Software Engineering. My goal is to become a professional fullstack Web developer. Further more, I hope i will work for a foreign technology company.  
 
 # Language
 
@@ -46,6 +46,7 @@ Hello! My name is Nguyễn Thành Đạt, I come from Tam Ky, Quang Nam. Current
 # Service
   
   <div align="start">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
 </div>
