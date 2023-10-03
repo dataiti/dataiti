@@ -1,5 +1,5 @@
 # Infomation
-Hello! My name is Nguyễn Thành Đạt, I come from Tam Ky, Quang Nam. Currently, I am a 4 year student at Duy Tan University and majoring in Software Engineering. My goal is to become a professional fullstack Web developer. Further more, I hope i will work for a foreign technology company. And here are technologies that I learned
+Hello recruiters! My name is Nguyễn Thành Đạt, I come from Tam Ky, Quang Nam. Currently, I am a 4 year student at Duy Tan University and majoring in Software Engineering. My goal is to become a professional fullstack Web developer. Further more, I hope i will work for a foreign technology company. And here are technologies that I learned
 
 # Language
 
