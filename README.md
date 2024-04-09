@@ -19,7 +19,6 @@ Hello recruiters! My name is Nguyễn Thành Đạt, I come from Tam Ky, Quang N
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="50" height="50" src="https://www.creative-tim.com/blog/content/images/wordpress/2021/04/material-tailwind-logo-204x300.png" alt="Material UI" title="Material Tailwind"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
 </div>
   
 # Backend
